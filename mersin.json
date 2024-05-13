@@ -1,0 +1,17 @@
+{"mersin" :[
+{
+"isim":"cezerye",
+"aciklama": "Havucun haşlanmasıyla yapılan tatlıdır sağlıklı.",
+"fotourl":"https://github.com/sifahatun33/Mersin/blob/main/cezerye.png"
+},
+{ 
+"isim":"kerebic",
+"aciklama": "İrmikten yapılan iççi dolu tatlı mükemmeldir.",
+"fotourl":"https://github.com/sifahatun33/Mersin/blob/main/kerebic.jpg"
+},
+{ 
+"isim":"tantuni",
+"aciklama": "Et ve tavukla yapılan yemektir.",
+"fotourl":"https://github.com/sifahatun33/Mersin/blob/main/tantuni.jpg"
+}]
+}
